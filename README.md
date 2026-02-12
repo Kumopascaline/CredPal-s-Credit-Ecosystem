@@ -1,4 +1,4 @@
- Unlocking Consumer Patterns for CredPal’s Credit Ecosystem
+# Unlocking Consumer Patterns for CredPal’s Credit Ecosystem
 
 ## Project Overview
 
