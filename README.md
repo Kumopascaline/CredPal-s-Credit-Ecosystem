@@ -83,6 +83,8 @@ A strong **positive relationship** exists between income and expenditure; as inc
 
 * **Tableau:** For data visualization and dashboard creation.
 * **Predictive Analytics:** To identify consumer trends and creditworthiness.
+* **Dataset** https://1drv.ms/x/c/67cd417fc93d9a3a/IQDTBqQYs12CS7tWcXZeERB1AYJdBm9w_BSlLgluo83c6IQ?e=Kpkqtr
+* **LinkedIn Post**  https://www.linkedin.com/posts/kumo-pascaline-bb3925226_tech4dev-wtf2025-datascience-activity-7391124294778556417-IGL2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADi71ncBezJji_8qNGvux-JQxA2wzxtQ6sU
 
 ---
 
