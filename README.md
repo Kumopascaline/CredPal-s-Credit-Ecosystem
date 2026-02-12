@@ -28,6 +28,8 @@ The analysis was performed using **Tableau** to visualize key financial metrics 
 
 * 
 **Sub-Saharan Africa & Europe** are the leading markets, recording the highest average monthly incomes ($34.7M and $34.3M respectively).
+ <img width="1840" height="845" alt="Picture1" src="https://github.com/user-attachments/assets/e64f43a5-89b2-4780-adca-5abb5ee946bc" />
+ 
 
 
 * These regions also exhibit the highest **savings rates** (Sub-Saharan Africa at 26.10% and Europe at 25.86%), indicating strong financial discipline and repayment capacity.
