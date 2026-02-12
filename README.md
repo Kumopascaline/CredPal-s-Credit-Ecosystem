@@ -26,68 +26,54 @@ The analysis was performed using **Tableau** to visualize key financial metrics 
 
 ### 1. Regional Financial Performance
 
-* 
-**Sub-Saharan Africa & Europe** are the leading markets, recording the highest average monthly incomes ($34.7M and $34.3M respectively).
- <img width="1840" height="845" alt="Picture1" src="https://github.com/user-attachments/assets/e64f43a5-89b2-4780-adca-5abb5ee946bc" />
+* **Sub-Saharan Africa & Europe** are the leading markets, recording the highest average monthly incomes ($34.7M and $34.3M respectively)
  
-
-
 * These regions also exhibit the highest **savings rates** (Sub-Saharan Africa at 26.10% and Europe at 25.86%), indicating strong financial discipline and repayment capacity.
 
+* **North America** shows the lowest scalability for credit, with a low savings rate of 2.17%.
 
-* 
-**North America** shows the lowest scalability for credit, with a low savings rate of 2.17%.
-
-
+<img width="1840" height="845" alt="Picture1" src="https://github.com/user-attachments/assets/e64f43a5-89b2-4780-adca-5abb5ee946bc" />
 
 ### 2. Consumer Expenditure & Preferences
 
-* 
-**Necessity-Driven Consumption:** Office Supplies ($5.7M) and Household Products ($5.4M) dominate regional budgets, particularly in Sub-Saharan Africa.
+* **Necessity-Driven Consumption:** Office Supplies ($5.7M) and Household Products ($5.4M) dominate regional budgets, particularly in Sub-Saharan Africa.
 
 
-* 
-**High Engagement Categories:** Personal Care, Clothes, and Cosmetics show the highest consumer preference counts, particularly in Africa and Europe, each exceeding 10,700 counts.
+* **High Engagement Categories:** Personal Care, Clothes, and Cosmetics show the highest consumer preference counts, particularly in Africa and Europe, each exceeding 10,700 counts.
 
 
-* 
-**Low Priority Markets:** Categories like Fruits and Beverages record minimal spending, suggesting they are underdeveloped for credit intervention.
+* **Low Priority Markets:** Categories like Fruits and Beverages record minimal spending, suggesting they are underdeveloped for credit intervention.
 
+<img width="1840" height="845" alt="Picture2" src="https://github.com/user-attachments/assets/c549ce15-8e38-4bd8-8c9f-4ada5780072f" />
 
 
 ### 3. Financial Correlation
 
 A strong **positive relationship** exists between income and expenditure; as income increases, spending rises. However, the analysis highlights that regions with higher income levels also maintain higher savings, reinforcing their status as "low-risk, high-growth" markets.
 
+<img width="1840" height="845" alt="Picture3" src="https://github.com/user-attachments/assets/500b4223-f57d-41ba-b16f-2ef4b8482ef6" />
+
 ---
 
 ## Recommendations for CredPal
 
-1. 
-**Prioritize Expansion:** Focus on Sub-Saharan Africa and Europe due to their vibrant retail ecosystems and high purchasing power.
+1. **Prioritize Expansion:** Focus on Sub-Saharan Africa and Europe due to their vibrant retail ecosystems and high purchasing power.
 
 
-2. 
-**Tailored Credit Products:** Align credit offerings with essential, recurring spending categories like **Office Supplies**, **Household Products**, and **Meat**.
+2. **Tailored Credit Products:** Align credit offerings with essential, recurring spending categories like **Office Supplies**, **Household Products**, and **Meat**.
 
 
 3. **Segmented Strategies:**
-* 
-**Africa/Europe:** Offer flexible credit lines with loyalty incentives.
+* **Africa/Europe:** Offer flexible credit lines with loyalty incentives.
 
 
-* 
-**Asia/MENA:** Implement educational campaigns to boost financial literacy alongside credit.
+* **Asia/MENA:** Implement educational campaigns to boost financial literacy alongside credit.
 
 
-* 
-**North America/Australia:** Utilize stricter repayment models like BNPL (Buy Now, Pay Later).
+* **North America/Australia:** Utilize stricter repayment models like BNPL (Buy Now, Pay Later).
 
 
-
-
-4. 
-**Risk Optimization:** Integrate regional income-expenditure-savings correlations into risk scoring algorithms to reduce default rates.
+4. **Risk Optimization:** Integrate regional income-expenditure-savings correlations into risk scoring algorithms to reduce default rates.
 
 
 
