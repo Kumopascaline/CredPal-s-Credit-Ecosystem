@@ -100,22 +100,9 @@ To interact with the visualizations and replicate the findings:
 
 
 
-* 
-**Data Source**: The analysis is based on regional consumer financial data covering income, expenditure, savings rates, and product preferences.
+* **Data Source**: The analysis is based on regional consumer financial data covering income, expenditure, savings rates, and product preferences.
 
 
-
----
-
-## Repository Structure
-
-* 
-`CredPal_Analysis.twbx`: The primary Tableau workbook containing all sheets and the final dashboard.
-
-
-* `data/`: (Optional) Folder containing the raw datasets used for the analysis.
-* 
-`images/`: Exported PNGs of key charts, such as the **Income vs. Expenditure** scatter plot.
 
 ## Conclusion
 
